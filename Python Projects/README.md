@@ -16,7 +16,7 @@ Ci-après les différentes étapes de ce projet:
 
     2.2 Traditional Machine Learning (SVM non linéaire avec un kernel RBF)
 
-3. Utiliser différentes architectures réseaux de neurones:
+3. Utilisation des différentes architectures réseaux de neurones:
 
     3.1 Classificateur 1: Fully Connected 3 layers NN
 
