@@ -6,7 +6,7 @@ Fashion MNIST est un jeu de données qui contient 70 000 images en niveaux de gr
 
 L'objectif de ce mini projet est la prédiction de la variable cible en utilisant dans un premier temps les algorithmes de Machine Learning traditionnels et dans un second lieu les différentes architectures réseaux de neurones afin de pouvoir comparer les performances obtenues pour les différents modèles utilisés. 
 
-Ci-après les différentes étapes de ce Notebook:
+Ci-après les différentes étapes de ce projet:
 
 1. Importation et exploration du dataset
 
